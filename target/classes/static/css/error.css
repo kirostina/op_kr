@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Jost');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+
+h1 {
+    font-family: "Jost", sans-serif;
+    font-size: 150px;
+    text-align: center;
+}
+h2 {
+    font-family: "Jost", sans-serif;
+    font-size: 100px;
+    text-align: center;
+}
+.button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #DDB109;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+    font-family: "Merriweather", sans-serif;
+}
+.button:hover {
+    background-color: #DDB109;
+}
